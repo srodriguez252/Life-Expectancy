@@ -1,7 +1,7 @@
 
 # Life-Expectancy
 
-
+Life expectancy is a fundamental measure of overall societal well-being and a key indicator of public health. Analyzing life expectancy trends can provide valuable insights into the effectiveness of healthcare systems, socio-economic development, and factors impacting human longevity.
 
 ## About
 Project to analyze the factors that affect the life span of a person and the influence of living in a developed and developing country.
@@ -11,10 +11,13 @@ Project to analyze the factors that affect the life span of a person and the inf
 
 ### 1. Clone the Repository
 
-  git clone https://github.com/srodriguez252/Life-Expectancy.git
-
-### 2. Install Dependencies
-  pip install -r requirements.txt
+`  git clone https://github.com/srodriguez252/Life-Expectancy.git
+`
+### 2. Libraries used
+  - Pandas
+  - Seaborn
+  - Matplotlib
+  - Sklearn
   
 
 ## Features
