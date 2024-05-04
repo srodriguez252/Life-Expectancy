@@ -47,6 +47,10 @@ Features of the dataset:<br>
 -Schooling: Number of years of Schooling(years)<br>
 </pre>
 
+## Results 
+Overall life expectancy in developed countries is higher compared to developing countries, the dataset used helped identify the main features involved in higher life expectancy.
+By analazying these features, developing countries could improve the life span of their citizens.
+
 ## Data Source 
 The data used for this project was obtained from: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
 
