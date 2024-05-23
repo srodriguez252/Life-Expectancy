@@ -9,15 +9,16 @@ Project to analyze the factors that affect the life span of a person and the inf
 
 ## Instalation and Setup
 
-### 1. Clone the Repository
 
-`  git clone https://github.com/srodriguez252/Life-Expectancy.git
-`
-### 2. Libraries used
-  - Pandas
-  - Seaborn
-  - Matplotlib
-  - Sklearn
+1. Clone the repository:
+   
+   ```sh
+   git clone https://github.com/srodriguez252/Life-Expectancy.git
+
+2. Install the dependencies:
+   
+   ```sh
+   pip install -r requirements.txt
   
 
 ## Features
